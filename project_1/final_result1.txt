@@ -1,0 +1,170 @@
+Video Capture Server Simulation round 1
+
+Mean interarrival time      0.017 seconds
+
+Mean service time         262.500 seconds
+
+Capacity                     20
+
+Length of the simulation   28800.000 seconds
+
+Server fraction of frames discard              7.7321544290 %
+
+Discard: 133579 , Total: 1727578
+
+Server utilization                 87.2472047806 %
+
+------------------------------------------------------------------------------
+Video Capture Server Simulation round 2
+
+Mean interarrival time      0.008 seconds
+
+Mean service time         399.500 seconds
+
+Capacity                     20
+
+Length of the simulation   28800.000 seconds
+
+Server fraction of frames discard             67.1127438545 %
+
+Discard: 2321497 , Total: 3459100
+
+Server utilization                 98.7108230591 %
+
+------------------------------------------------------------------------------
+Video Capture Server Simulation round 3
+
+Mean interarrival time      0.017 seconds
+
+Mean service time         262.500 seconds
+
+Capacity                     40
+
+Length of the simulation   28800.000 seconds
+
+Server fraction of frames discard              4.1840586811 %
+
+Discard: 72303 , Total: 1728059
+
+Server utilization                 92.2010064125 %
+
+------------------------------------------------------------------------------
+Video Capture Server Simulation round 4
+
+Mean interarrival time      0.008 seconds
+
+Mean service time         399.500 seconds
+
+Capacity                     40
+
+Length of the simulation   28800.000 seconds
+
+Server fraction of frames discard             66.9568061829 %
+
+Discard: 2317608 , Total: 3461348
+
+Server utilization                 99.0453124046 %
+
+------------------------------------------------------------------------------
+Video Capture Server Simulation round 5
+
+Mean interarrival time      0.017 seconds
+
+Mean service time         262.500 seconds
+
+Capacity                     60
+
+Length of the simulation   28800.000 seconds
+
+Server fraction of frames discard              2.8175329790 %
+
+Discard: 48638 , Total: 1726262
+
+Server utilization                 94.0959513187 %
+
+------------------------------------------------------------------------------
+Video Capture Server Simulation round 6
+
+Mean interarrival time      0.008 seconds
+
+Mean service time         399.500 seconds
+
+Capacity                     60
+
+Length of the simulation   28800.000 seconds
+
+Server fraction of frames discard             67.0526623726 %
+
+Discard: 2322330 , Total: 3463442
+
+Server utilization                 98.9199638367 %
+
+------------------------------------------------------------------------------
+Video Capture Server Simulation round 7
+
+Mean interarrival time      0.017 seconds
+
+Mean service time         262.500 seconds
+
+Capacity                     80
+
+Length of the simulation   28800.000 seconds
+
+Server fraction of frames discard              2.0829411224 %
+
+Discard: 35958 , Total: 1726309
+
+Server utilization                 95.1764702797 %
+
+------------------------------------------------------------------------------
+Video Capture Server Simulation round 8
+
+Mean interarrival time      0.008 seconds
+
+Mean service time         399.500 seconds
+
+Capacity                     80
+
+Length of the simulation   28800.000 seconds
+
+Server fraction of frames discard             67.0835971832 %
+
+Discard: 2321568 , Total: 3460709
+
+Server utilization                 98.6525714397 %
+
+------------------------------------------------------------------------------
+Video Capture Server Simulation round 9
+
+Mean interarrival time      0.017 seconds
+
+Mean service time         262.500 seconds
+
+Capacity                    100
+
+Length of the simulation   28800.000 seconds
+
+Server fraction of frames discard              1.6592513770 %
+
+Discard: 28634 , Total: 1725718
+
+Server utilization                 95.6603646278 %
+
+------------------------------------------------------------------------------
+Video Capture Server Simulation round 10
+
+Mean interarrival time      0.008 seconds
+
+Mean service time         399.500 seconds
+
+Capacity                    100
+
+Length of the simulation   28800.000 seconds
+
+Server fraction of frames discard             67.0204937458 %
+
+Discard: 2318444 , Total: 3459306
+
+Server utilization                 98.8817632198 %
+
+------------------------------------------------------------------------------
